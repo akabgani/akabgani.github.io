@@ -9,6 +9,7 @@ website:
   site-url: "https://akabgani.github.io"
   description: "Research in nonsmooth and nonconvex optimization, high-order methods, variational analysis, and optimization for machine learning."
   navbar:
+    title: false
     pinned: true
     left:
       - href: index.qmd
