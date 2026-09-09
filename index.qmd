@@ -3,8 +3,9 @@ title: "Alireza Kabgani"
 pagetitle: "Alireza Kabgani"
 page-layout: full
 title-block-banner: false
+title-block-style: none
 ---
-
+```{=html}
 <div class="hero">
   <div class="hero-copy">
     <div class="eyebrow">Applied Mathematics · Optimization · Machine Learning</div>
@@ -22,6 +23,7 @@ title-block-banner: false
     <img class="hero-photo" src="https://avatars.githubusercontent.com/u/102479904?v=4" alt="Alireza Kabgani">
   </div>
 </div>
+```
 
 ## Research themes
 
