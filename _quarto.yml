@@ -41,7 +41,7 @@ website:
 format:
   html:
     theme: cosmo
-    css: styles.css
+    css: academic.css
     toc: false
     smooth-scroll: true
     link-external-newwindow: true
