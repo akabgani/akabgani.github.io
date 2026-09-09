@@ -19,23 +19,24 @@ website:
       - href: publications.qmd
         text: Publications
       - href: software.qmd
-        text: Software & Projects
+        text: Software
       - href: activities.qmd
-        text: Activities
+        text: Talks & Service
       - href: cv.qmd
         text: CV
     right:
+      - icon: envelope
+        href: mailto:alireza.kabgani@uantwerp.be
+        aria-label: Email
       - icon: github
         href: https://github.com/akabgani
         aria-label: GitHub
       - text: ORCID
         href: https://orcid.org/0000-0001-6554-6969
-      - text: DBLP
-        href: https://dblp.org/pid/167/2062
   search: true
   page-footer:
     left: "© Alireza Kabgani"
-    right: "Built with Quarto · Hosted on GitHub Pages"
+    right: "Department of Mathematics · University of Antwerp"
 
 format:
   html:

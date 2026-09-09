@@ -1,47 +1,75 @@
 ---
-title: "Alireza Kabgani"
-pagetitle: "Alireza Kabgani"
+pagetitle: "Alireza Kabgani | Applied Mathematics & Optimization"
 page-layout: full
-title-block-banner: false
-title-block-style: none
 ---
+
 ```{=html}
-<div class="hero">
-  <div class="hero-copy">
-    <div class="eyebrow">Applied Mathematics · Optimization · Machine Learning</div>
+<section class="academic-intro">
+  <div class="academic-intro-main">
+    <div class="academic-kicker">Applied Mathematics · Optimization</div>
     <h1>Alireza Kabgani</h1>
-    <p class="hero-lead">I work on nonsmooth and nonconvex optimization, high-order proximal and envelope methods, variational analysis, and optimization methods with applications in machine learning and data science.</p>
-    <p>Department of Mathematics, University of Antwerp, Belgium.</p>
-    <div class="hero-actions">
-      <a class="hero-btn hero-btn-primary" href="publications.html">Publications</a>
-      <a class="hero-btn" href="research.html">Research</a>
-      <a class="hero-btn" href="https://orcid.org/0000-0001-6554-6969" target="_blank">ORCID</a>
-      <a class="hero-btn" href="https://github.com/akabgani" target="_blank">GitHub</a>
-    </div>
+    <p class="academic-role">PhD Researcher in Applied Mathematics</p>
+    <p class="academic-affiliation">
+      <a href="https://www.uantwerpen.be/en/staff/alireza-kabgani_24630/" target="_blank" rel="noopener">Department of Mathematics, University of Antwerp</a>
+      <span aria-hidden="true">·</span> Antwerp, Belgium
+    </p>
+
+    <p class="academic-summary">
+      My research focuses on nonsmooth and nonconvex optimization, high-order Moreau and forward-backward envelopes, proximal algorithms, and variational analysis. I am particularly interested in convergence theory, inexact methods, and optimization techniques motivated by machine learning, inverse problems, and data science.
+    </p>
+
+    <nav class="academic-links" aria-label="Academic profile links">
+      <a href="mailto:alireza.kabgani@uantwerp.be">Email</a>
+      <a href="publications.html">Publications</a>
+      <a href="research.html">Research</a>
+      <a href="https://orcid.org/0000-0001-6554-6969" target="_blank" rel="noopener">ORCID</a>
+      <a href="https://dblp.org/pid/167/2062" target="_blank" rel="noopener">DBLP</a>
+      <a href="https://github.com/akabgani" target="_blank" rel="noopener">GitHub</a>
+      <a href="cv.html">CV</a>
+    </nav>
   </div>
-  <div class="hero-photo-wrap">
-    <img class="hero-photo" src="https://avatars.githubusercontent.com/u/102479904?v=4" alt="Alireza Kabgani">
-  </div>
-</div>
+
+  <aside class="research-snapshot" aria-label="Research interests">
+    <h2>Research interests</h2>
+    <ul>
+      <li>Nonsmooth & nonconvex optimization</li>
+      <li>High-order optimization & envelopes</li>
+      <li>Proximal and inexact algorithms</li>
+      <li>Variational analysis</li>
+      <li>Optimization for machine learning</li>
+    </ul>
+  </aside>
+</section>
 ```
 
-## Research themes
-
-<div class="theme-grid">
-  <div class="theme-card"><h3>High-order optimization</h3><p>High-order Moreau and forward-backward envelopes, proximal-point algorithms, and nonquadratic regularization.</p></div>
-  <div class="theme-card"><h3>Nonsmooth & nonconvex optimization</h3><p>Convergence theory, inexact methods, weak smoothness, prox-regularity, KL geometry, and generalized subdifferentials.</p></div>
-  <div class="theme-card"><h3>Optimization for ML</h3><p>Robust learning, recommender systems, Bayesian sampling, inverse problems, and structured optimization.</p></div>
-  <div class="theme-card"><h3>Algorithms & software</h3><p>Reproducible implementations, numerical validation, and practical optimization workflows.</p></div>
-</div>
-
-## Featured work
+## Selected publications
 
 {{< include generated/featured.md >}}
 
-<p class="more-link"><a href="publications.html">View all publications →</a></p>
+<p class="section-more"><a href="publications.html">Full publication list →</a></p>
 
-## Latest news
+## Recent news
 
 {{< include generated/news.md >}}
 
-<p class="more-link"><a href="activities.html">View activities →</a></p>
+<p class="section-more"><a href="activities.html">Talks, service, and activities →</a></p>
+
+```{=html}
+<section class="academic-footer-links" aria-label="Explore the site">
+  <div>
+    <h2>Research</h2>
+    <p>Current directions, mathematical themes, and research projects.</p>
+    <a href="research.html">Research overview →</a>
+  </div>
+  <div>
+    <h2>Software & projects</h2>
+    <p>Research implementations, numerical experiments, and applied ML work.</p>
+    <a href="software.html">Software and projects →</a>
+  </div>
+  <div>
+    <h2>Activities</h2>
+    <p>Talks, conference organization, editorial service, supervision, and honours.</p>
+    <a href="activities.html">Academic activities →</a>
+  </div>
+</section>
+```

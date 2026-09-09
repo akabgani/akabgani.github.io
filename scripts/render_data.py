@@ -114,10 +114,47 @@ def render_home(pubs, news):
         key=lambda p: (rank.get(p.get("status"), 0), p.get("year", 0)),
         reverse=True,
     )[:4]
-    cards = ['<div class="pub-grid featured-grid">']
-    cards += [pub_card(p, compact=True) for p in featured]
-    cards += ["</div>"]
-    (OUT / "featured.md").write_text("\n".join(cards), encoding="utf-8")
+
+    featured_items = ['<div class="featured-list">']
+    for p in featured:
+        status = p.get("status", "preprint")
+        status_label = {"published": "Published", "accepted": "Accepted", "preprint": "Preprint"}.get(status, status.title())
+        title = esc(p["title"])
+        authors = author_html(p.get("authors", []))
+        year = esc(p.get("year", ""))
+        venue = esc(p.get("venue", ""))
+        details = esc(p.get("details", ""))
+        arxiv = p.get("arxiv")
+        doi = p.get("doi")
+        url = p.get("url")
+        code = p.get("code")
+        primary_url = f"https://doi.org/{doi}" if doi else (f"https://arxiv.org/abs/{arxiv}" if arxiv else url)
+        title_html = f'<a href="{esc(primary_url)}" target="_blank" rel="noopener">{title}</a>' if primary_url else title
+        meta = venue
+        if details:
+            meta += (", " if meta else "") + details
+        if year:
+            meta += (", " if meta else "") + year
+        links = []
+        if doi:
+            links.append(f'<a href="https://doi.org/{esc(doi)}" target="_blank" rel="noopener">DOI</a>')
+        if arxiv:
+            links.append(f'<a href="https://arxiv.org/abs/{esc(arxiv)}" target="_blank" rel="noopener">arXiv</a>')
+        if code:
+            links.append(f'<a href="{esc(code)}" target="_blank" rel="noopener">Code</a>')
+        if url and not doi:
+            links.append(f'<a href="{esc(url)}" target="_blank" rel="noopener">Link</a>')
+        featured_items.append(
+            f'<article class="featured-paper">'
+            f'<div class="featured-paper-year">{year}<span class="featured-paper-status">{status_label}</span></div>'
+            f'<div><h3>{title_html}</h3>'
+            f'<div class="featured-paper-authors">{authors}</div>'
+            f'<div class="featured-paper-meta">{meta}</div>'
+            f'<div class="featured-paper-links">{"".join(links)}</div></div>'
+            f'</article>'
+        )
+    featured_items += ["</div>"]
+    (OUT / "featured.md").write_text("\n".join(featured_items), encoding="utf-8")
 
     news_sorted = sorted(news, key=lambda n: n.get("date", ""), reverse=True)[:5]
     items = ['<div class="news-list">']
