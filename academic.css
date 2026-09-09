@@ -288,3 +288,84 @@ h3 { font-size: 1.04rem; }
   .news-item { grid-template-columns:74px minmax(0,1fr); gap:.75rem; }
   .news-type { min-width:auto; margin-right:.35rem; }
 }
+
+/* Academic profile header */
+
+.academic-profile {
+  display: grid;
+  grid-template-columns: 170px minmax(0, 1fr);
+  gap: 2.3rem;
+  align-items: start;
+  max-width: 980px;
+  margin: 1.2rem auto 1.7rem;
+}
+
+.academic-photo-wrap {
+  padding-top: 0.25rem;
+}
+
+.academic-photo {
+  width: 165px;
+  height: 165px;
+  object-fit: cover;
+  border-radius: 4px;
+  display: block;
+}
+
+.academic-profile-main h1 {
+  margin: 0.2rem 0 0.25rem;
+}
+
+.academic-profile-main .academic-summary {
+  max-width: 760px;
+  margin-top: 1.25rem;
+}
+
+.research-interests-inline {
+  max-width: 980px;
+  margin: 0 auto 3rem;
+  padding-top: 0.95rem;
+  border-top: 1px solid #d9dee7;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.35rem 1rem;
+  font-size: 0.93rem;
+  line-height: 1.5;
+}
+
+.research-interests-inline span:not(.research-interests-label)::before {
+  content: "·";
+  margin-right: 1rem;
+  color: #9aa5b4;
+}
+
+.research-interests-label {
+  font-weight: 700;
+  color: #182235;
+}
+
+@media (max-width: 760px) {
+  .academic-profile {
+    grid-template-columns: 1fr;
+    gap: 1.25rem;
+  }
+
+  .academic-photo {
+    width: 135px;
+    height: 135px;
+  }
+
+  .research-interests-inline {
+    display: block;
+  }
+
+  .research-interests-inline span {
+    display: block;
+    margin-bottom: 0.35rem;
+  }
+
+  .research-interests-inline span:not(.research-interests-label)::before {
+    content: "";
+    margin-right: 0;
+  }
+}
