@@ -1,0 +1,5 @@
+---
+title: "Activities"
+---
+
+{{< include generated/activities.md >}}

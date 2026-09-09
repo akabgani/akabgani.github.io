@@ -1,0 +1,376 @@
+- id: kabgani-ahookhosh-2026-hifbe
+  title: On Fundamental Properties of High-Order Forward-Backward Envelope
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2026
+  status: published
+  venue: Journal of Optimization Theory and Applications
+  details: 210(1), Article 14
+  doi: 10.1007/s10957-026-03047-6
+  arxiv: '2511.10421'
+  topics:
+  - High-order optimization
+  - Forward-backward envelope
+  - Nonconvex optimization
+  featured: true
+- id: ahookhosh-ghaderi-kabgani-rahimi-2026-deal
+  title: 'Minimizing Smooth Kurdyka-Łojasiewicz Functions via Generalized Descent Methods: Convergence Rate and Complexity'
+  authors:
+  - Masoud Ahookhosh
+  - Susan Ghaderi
+  - Alireza Kabgani
+  - Morteza Rahimi
+  year: 2026
+  status: published
+  venue: Journal of Optimization Theory and Applications
+  details: 210(1), Article 13
+  doi: 10.1007/s10957-026-03034-x
+  arxiv: '2511.10414'
+  topics:
+  - Kurdyka-Łojasiewicz
+  - Generalized descent
+  - Convergence rates
+  featured: true
+- id: ahookhosh-iusem-kabgani-lara-2026-hippa
+  title: Asymptotic Convergence Analysis of High-Order Proximal-Point Methods Beyond Sublinear Rates
+  authors:
+  - Masoud Ahookhosh
+  - Alfredo Iusem
+  - Alireza Kabgani
+  - Felipe Lara
+  year: 2026
+  status: accepted
+  venue: SIAM Journal on Optimization
+  details: Accepted / forthcoming
+  arxiv: '2505.20484'
+  topics:
+  - High-order proximal methods
+  - Quasiconvex optimization
+  - Convergence rates
+  featured: true
+- id: kabgani-ahookhosh-2026-itsopt
+  title: 'ItsOPT: An Inexact Two-Level Smoothing Framework for Nonconvex Optimization via High-Order Moreau Envelope'
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2026
+  status: accepted
+  venue: SIAM Journal on Optimization
+  details: Accepted / forthcoming
+  arxiv: '2410.19928'
+  topics:
+  - Smoothing
+  - High-order Moreau envelope
+  - Inexact optimization
+  featured: true
+- id: kabgani-ahookhosh-2025-home
+  title: Moreau Envelope and Proximal-Point Methods Under the Lens of High-Order Regularization
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2025
+  status: published
+  venue: Set-Valued and Variational Analysis
+  details: 33, Article 47
+  doi: 10.1007/s11228-025-00785-z
+  arxiv: '2503.04577'
+  topics:
+  - High-order Moreau envelope
+  - Proximal-point methods
+  - Variational analysis
+  featured: false
+- id: kanzi-kabgani-caristi-barilla-2025
+  title: On Nonsmooth Semi-Infinite Programming Problems
+  authors:
+  - Nader Kanzi
+  - Alireza Kabgani
+  - Giuseppe Caristi
+  - David Barilla
+  year: 2025
+  status: published
+  venue: Convex Optimization—Theory, Algorithms and Applications, Springer Proceedings in Mathematics & Statistics
+  details: Vol. 476
+  doi: 10.1007/978-981-97-8907-8_13
+  topics:
+  - Nonsmooth optimization
+  - Semi-infinite programming
+  featured: false
+- id: kabgani-lara-2023-quasiconvex
+  title: Semistrictly and Neatly Quasiconvex Programming Using Lower Global Subdifferentials
+  authors:
+  - Alireza Kabgani
+  - Felipe Lara
+  year: 2023
+  status: published
+  venue: Journal of Global Optimization
+  details: 86, 845–865
+  doi: 10.1007/s10898-023-01278-9
+  topics:
+  - Quasiconvex optimization
+  - Global subdifferentials
+  featured: false
+- id: kabgani-soleimani-2023-note
+  title: A Note on Characterization of (Weakly/Properly/Robust) Efficient Solutions in Nonsmooth Semi-Infinite Multiobjective
+    Optimization Using Convexificators
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  year: 2023
+  status: published
+  venue: Optimization
+  details: 72, 2393–2398
+  doi: 10.1080/02331934.2022.2059369
+  topics:
+  - Multiobjective optimization
+  - Convexificators
+  featured: false
+- id: poormirzaee-kabgani-2022
+  title: Characterizing the Vs Profile from Surface Wave Data Using a Customized Artificial Jellyfish Search Algorithm
+  authors:
+  - R. Poormirzaee
+  - Alireza Kabgani
+  year: 2022
+  status: published
+  venue: Pure and Applied Geophysics
+  details: 179, 4429–4444
+  doi: 10.1007/s00024-022-03173-y
+  topics:
+  - Optimization applications
+  - Geophysics
+  - Metaheuristics
+  featured: false
+- id: kabgani-lara-2022-strong-subdiff
+  title: 'Strong Subdifferentials: Theory and Applications in Nonconvex Optimization'
+  authors:
+  - Alireza Kabgani
+  - Felipe Lara
+  year: 2022
+  status: published
+  venue: Journal of Global Optimization
+  details: 84, 349–368
+  doi: 10.1007/s10898-022-01149-9
+  topics:
+  - Nonsmooth optimization
+  - Subdifferentials
+  featured: false
+- id: kabgani-soleimani-2022-semi-quasi
+  title: Semi-Quasidifferentiability in Nonsmooth Nonconvex Multiobjective Optimization
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  year: 2022
+  status: published
+  venue: European Journal of Operational Research
+  details: 299, 35–45
+  doi: 10.1016/j.ejor.2021.10.063
+  topics:
+  - Multiobjective optimization
+  - Nonsmooth analysis
+  featured: false
+- id: kabgani-2021-quasiconvex
+  title: Characterization of Nonsmooth Quasiconvex Functions and Their Greenberg–Pierskalla Subdifferentials Using the Semi-Quasidifferentiability
+    Notion
+  authors:
+  - Alireza Kabgani
+  year: 2021
+  status: published
+  venue: Journal of Optimization Theory and Applications
+  details: 189, 666–678
+  doi: 10.1007/s10957-021-01851-w
+  topics:
+  - Quasiconvexity
+  - Nonsmooth analysis
+  featured: false
+- id: lara-kabgani-2021-global-subdiff
+  title: On Global Subdifferentials with Applications in Nonsmooth Optimization
+  authors:
+  - Felipe Lara
+  - Alireza Kabgani
+  year: 2021
+  status: published
+  venue: Journal of Global Optimization
+  details: 81, 881–900
+  doi: 10.1007/s10898-020-00981-1
+  topics:
+  - Nonsmooth optimization
+  - Global subdifferentials
+  featured: false
+- id: kabgani-soleimani-2019
+  title: Constraint Qualifications and Optimality Conditions in Nonsmooth Locally Star-Shaped Optimization Using Convexificators
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  year: 2019
+  status: published
+  venue: Pacific Journal of Optimization
+  details: 15, 399–413
+  url: http://www.yokohamapublishers.jp/online2/oppjo/vol15/p399.html
+  topics:
+  - Optimality conditions
+  - Convexificators
+  featured: false
+- id: kabgani-soleimani-2018
+  title: Characterization of (Weakly/Properly/Robust) Efficient Solutions in Nonsmooth Semi-Infinite Multiobjective Optimization
+    Using Convexificators
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  year: 2018
+  status: published
+  venue: Optimization
+  details: 67, 217–235
+  doi: 10.1080/02331934.2017.1393675
+  topics:
+  - Multiobjective optimization
+  - Convexificators
+  featured: false
+- id: kabgani-soleimani-2017-gp
+  title: Relationships Between Convexificators and Greenberg–Pierskalla Subdifferentials for Quasiconvex Functions
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  year: 2017
+  status: published
+  venue: Numerical Functional Analysis and Optimization
+  details: 38, 1548–1563
+  doi: 10.1080/01630563.2017.1349144
+  topics:
+  - Quasiconvexity
+  - Convexificators
+  featured: false
+- id: kabgani-soleimani-zamani-2017
+  title: Optimality Conditions in Optimization Problems with Convex Feasible Set Using Convexificators
+  authors:
+  - Alireza Kabgani
+  - Majid Soleimani-damaneh
+  - M. Zamani
+  year: 2017
+  status: published
+  venue: Mathematical Methods of Operations Research
+  details: 86, 103–121
+  doi: 10.1007/s00186-017-0584-2
+  topics:
+  - Optimality conditions
+  - Convexificators
+  featured: false
+- id: zamani-soleimani-kabgani-2015
+  title: Robustness in Nonsmooth Nonlinear Multi-Objective Programming
+  authors:
+  - M. Zamani
+  - Majid Soleimani-damaneh
+  - Alireza Kabgani
+  year: 2015
+  status: published
+  venue: European Journal of Operational Research
+  details: 247, 370–378
+  doi: 10.1016/j.ejor.2015.06.031
+  topics:
+  - Robust optimization
+  - Multiobjective optimization
+  featured: false
+- id: kabgani-lara-ahookhosh-2026-robust-quasar
+  title: 'Robust Learning Meets Quasar-Convex Optimization: Inexact High-Order Proximal-Point Methods'
+  authors:
+  - Alireza Kabgani
+  - Felipe Lara
+  - Masoud Ahookhosh
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2605.08474'
+  topics:
+  - Robust learning
+  - Quasar-convex optimization
+  - High-order proximal methods
+  featured: true
+- id: kabgani-lotfian-2026-kde
+  title: 'Kernel Density Estimation under C^{1,1} Regularity: AMISE, Weak Curvature, and Plug-in Bandwidths'
+  authors:
+  - Alireza Kabgani
+  - Elaheh Lotfian
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2605.20550'
+  topics:
+  - Kernel density estimation
+  - Weak curvature
+  - Statistics
+  featured: false
+- id: ghaderi-kabgani-moreau-ahookhosh-2026-himars-mcmc
+  title: 'HiMARS: Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm'
+  authors:
+  - Susan Ghaderi
+  - Alireza Kabgani
+  - Yves Moreau
+  - Masoud Ahookhosh
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2605.17306'
+  topics:
+  - Bayesian sampling
+  - Proximal Langevin
+  - Nonsmooth optimization
+  featured: false
+- id: ahookhosh-brito-kabgani-lara-yuan-2026-quasar
+  title: 'Quasar-Convex Optimization: Fundamental Properties and High-Order Proximal-Point Methods'
+  authors:
+  - Masoud Ahookhosh
+  - José M. M. de Brito
+  - Alireza Kabgani
+  - Felipe Lara
+  - Jinyun Yuan
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2604.26735'
+  topics:
+  - Quasar-convex optimization
+  - High-order proximal methods
+  featured: false
+- id: lotfian-kabgani-2026-himars-rec
+  title: 'HiMARS: Hybrid Multi-Objective Algorithms for Recommender Systems'
+  authors:
+  - Elaheh Lotfian
+  - Alireza Kabgani
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2604.07572'
+  code: https://github.com/elotfian/HiMARS-RecommenderSystem
+  topics:
+  - Recommender systems
+  - Multiobjective optimization
+  - Machine learning
+  featured: false
+- id: kabgani-ahookhosh-2025-hifba
+  title: 'First-Order Majorization-Minimization Meets High-Order Majorant: Boosted Inexact High-Order Forward-Backward Method'
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2025
+  status: preprint
+  venue: arXiv
+  arxiv: '2510.22231'
+  code: https://github.com/akabgani/HiFBA
+  topics:
+  - Majorization-minimization
+  - Forward-backward methods
+  - High-order optimization
+  featured: false
+- id: kabgani-ahookhosh-2025-itsdeal
+  title: 'ItsDEAL: Inexact Two-Level Smoothing Descent Algorithms for Weakly Convex Optimization'
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2025
+  status: preprint
+  venue: arXiv
+  arxiv: '2501.02155'
+  topics:
+  - Weakly convex optimization
+  - Smoothing
+  - Inexact optimization
+  featured: false

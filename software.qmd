@@ -1,0 +1,33 @@
+---
+title: "Software & Projects"
+---
+
+<div class="project-grid">
+
+<div class="project-card">
+<h3>Capstone Agent Studio</h3>
+<p>A rule-aware, evaluation-driven AI agent for turning a vague capstone idea into a complete, testable, documented project package. The repository emphasizes deterministic tools, security checks, evaluation, and reproducibility.</p>
+<p><a class="pub-btn pub-btn-primary" href="https://github.com/akabgani/capstone-agent-studio" target="_blank">GitHub</a></p>
+</div>
+
+<div class="project-card">
+<h3>HiFBA</h3>
+<p>Implementation associated with high-order inexact forward-backward methods and boosted variants for nonsmooth and nonconvex optimization.</p>
+<p><a class="pub-btn pub-btn-primary" href="https://github.com/akabgani/HiFBA" target="_blank">GitHub</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2510.22231" target="_blank">Paper</a></p>
+</div>
+
+<div class="project-card">
+<h3>Inexact RPL</h3>
+<p>Research code for residual Polyak–Łojasiewicz analysis and inexact proximal-gradient experiments.</p>
+<p><a class="pub-btn pub-btn-primary" href="https://github.com/akabgani/inexact_RPL" target="_blank">GitHub</a></p>
+</div>
+
+<div class="project-card">
+<h3>HiMARS Recommender System</h3>
+<p>Python implementation of hybrid multi-objective algorithms for balancing accuracy and diversity in recommender systems.</p>
+<p><a class="pub-btn pub-btn-primary" href="https://github.com/elotfian/HiMARS-RecommenderSystem" target="_blank">GitHub</a>
+<a class="pub-btn" href="https://arxiv.org/abs/2604.07572" target="_blank">Paper</a></p>
+</div>
+
+</div>

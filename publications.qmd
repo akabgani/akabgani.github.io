@@ -1,0 +1,7 @@
+---
+title: "Publications"
+---
+
+The list is maintained from a single structured data file. Papers appear only once: when a preprint is accepted, its status changes and it moves automatically to **Published & Accepted**, while the arXiv link remains available.
+
+{{< include generated/publications.md >}}

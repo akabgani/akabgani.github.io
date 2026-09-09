@@ -1,0 +1,25 @@
+---
+title: "CV"
+---
+
+## Current position
+
+**Doctoral Researcher, Department of Mathematics, University of Antwerp**  
+Research in applied mathematics and optimization.
+
+## Research interests
+
+Nonsmooth and nonconvex optimization; high-order optimization; proximal and envelope methods; variational analysis; optimization for machine learning.
+
+## Profiles
+
+- [University of Antwerp profile](https://www.uantwerpen.be/en/staff/alireza-kabgani_24630/)
+- [ORCID](https://orcid.org/0000-0001-6554-6969)
+- [GitHub](https://github.com/akabgani)
+
+::: {.callout-note}
+### Add your PDF CV
+Place your PDF at `assets/Alireza_Kabgani_CV.pdf`, then replace this note with:
+
+`[Download full CV](assets/Alireza_Kabgani_CV.pdf){.btn .btn-primary}`
+:::

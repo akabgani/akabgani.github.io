@@ -1,0 +1,76 @@
+projects:
+- period: 2023–2026
+  text: Evaluation complexity of non-Euclidean optimization methods, University of Antwerp, Belgium.
+- period: 2022–2023
+  text: Nonsmooth optimization using global subdifferentials, School of Mathematics, IPM, Tehran, Iran.
+- period: 2021–2023
+  text: Nonsmooth bilevel programming problems, School of Mathematics, IPM, Tehran, Iran.
+- period: 2021–2022
+  text: Nonsmooth multi-objective optimization using non-classical subdifferential and its applications, Iran National Science
+    Foundation.
+- period: 2020–2021
+  text: Quasidifferentiability and its applications in nonsmooth optimization problems, School of Mathematics, IPM.
+- period: 2019–2020
+  text: Nonsmooth optimization using convexificators, School of Mathematics, IPM.
+organization:
+- year: 2026
+  text: Organizer, session “Smoothing Techniques for Nonsmooth Optimization”, EUROPT 2026, Austria.
+- year: 2025
+  text: Organizer, session “Smoothing Techniques for Nonsmooth Optimization”, EUROPT 2025, United Kingdom.
+- year: 2024
+  text: Organizer, session “Nonsmooth Optimization Algorithms”, EURO 2024, Denmark.
+- year: 2024
+  text: Organizer, stream “Nonsmooth and Nonconvex Optimization Algorithms”, EUROPT 2024, Sweden.
+- year: 2024
+  text: Organizing Committee, Workshop on Nonsmooth Optimization and Applications (NOPTA 2024), Belgium.
+- year: 2024
+  text: Scientific Committee, International Conference on Optimization, Morocco.
+- year: 2023
+  text: Organizer, session “Applications of Nonsmooth Optimization”, EUROPT 2023, Hungary.
+- year: 2022
+  text: Scientific Committee, International Online Conference on Optimization ICOP22, Morocco.
+- year: 2021
+  text: Chair, Second Workshop on Nonsmooth Optimization and its Applications, Iran.
+- year: 2020
+  text: Chair, Online Workshop on Nonsmooth Optimization and its Applications, Iran.
+- year: 2016
+  text: Organizing Committee, Workshop on Optimization and its Application in Medicine, IPM, Tehran.
+- year: 2013
+  text: Organizing Committee, 2nd International Conference on Operations Research and Optimization, University of Tehran.
+reviewing:
+- SIAM Journal on Optimization
+- Mathematics of Operations Research
+- Computational Optimization and Applications
+- Journal of Optimization Theory and Applications
+- Journal of Global Optimization
+- TOP
+- Optimization
+- Optimization Letters
+- Vietnam Journal of Mathematics
+- Numerical Algebra, Control and Optimization
+- Journal of Industrial and Management Optimization
+- Bulletin of the Malaysian Mathematical Sciences Society
+- Bulletin of the Iranian Mathematical Society
+- PLOS ONE
+- Control and Optimization in Applied Mathematics
+supervisions:
+- year: 2026
+  text: 'Master thesis: Heavy-Ball and Nesterov-Type Acceleration Methods with Inexact Oracle for Nonsmooth Convex Optimization
+    (University of Antwerp).'
+- year: 2026
+  text: 'Bachelor thesis: Conjugate Gradient Methods via the High-Order Moreau Envelope Framework (University of Antwerp).'
+- year: 2025
+  text: 'Bachelor thesis: Adaptive Gradient Descent without Descent (University of Antwerp).'
+honours:
+- year: 2024
+  text: FWO Travel Grant, Chilean-Peruvian Conference on Optimization and Variational Analysis, Arica, Chile.
+- year: 2023
+  text: Iran's National Elites Foundation, Kazemi Ashtiani Award for Young Researchers.
+- year: 2015
+  text: IPM Travel Grant, 23rd International Conference on Multiple Criteria Decision Making.
+- year: 2015
+  text: University of Tehran Travel Grant, 23rd International Conference on Multiple Criteria Decision Making.
+- year: 2014
+  text: Team leader, third national Operations Research competition; team achieved 1st rank.
+- year: 2013
+  text: Team leader, second national Operations Research competition; team achieved 1st rank.

@@ -1,0 +1,21 @@
+---
+title: "Research"
+---
+
+My research focuses on the design and analysis of algorithms for structured optimization problems, particularly when classical smoothness or convexity assumptions are too restrictive.
+
+## High-order envelopes and proximal methods
+
+A central direction of my work studies nonquadratic regularization of order \(p>1\) and the resulting high-order proximal mappings and envelope functions. This includes the high-order Moreau envelope, high-order forward-backward envelope, their regularity properties, and algorithms built around them.
+
+## Nonsmooth and nonconvex optimization
+
+I am interested in convergence mechanisms for problems with nonsmooth or nonconvex geometry, including prox-regularity, weak smoothness, Kurdyka–Łojasiewicz inequalities, generalized descent conditions, inexact proximal oracles, and majorization-minimization methods.
+
+## Optimization and machine learning
+
+I also study optimization structures arising in machine learning and data science, including robust learning, recommender systems, Bayesian sampling, inverse problems, and low-rank recovery. My goal is to connect mathematical structure with algorithms that remain useful computationally.
+
+## Current research project
+
+At the University of Antwerp, my research project concerns the **evaluation complexity of non-Euclidean optimization methods**, including first-, second-, and high-order algorithms for structured nonsmooth and nonconvex problems and applications in machine learning, data science, signal processing, and related areas.

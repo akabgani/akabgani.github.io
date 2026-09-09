@@ -1,0 +1,45 @@
+---
+title: false
+pagetitle: "Alireza Kabgani"
+page-layout: full
+title-block-banner: false
+---
+
+<div class="hero">
+  <div class="hero-copy">
+    <div class="eyebrow">Applied Mathematics · Optimization · Machine Learning</div>
+    <h1>Alireza Kabgani</h1>
+    <p class="hero-lead">I work on nonsmooth and nonconvex optimization, high-order proximal and envelope methods, variational analysis, and optimization methods with applications in machine learning and data science.</p>
+    <p>Department of Mathematics, University of Antwerp, Belgium.</p>
+    <div class="hero-actions">
+      <a class="hero-btn hero-btn-primary" href="publications.html">Publications</a>
+      <a class="hero-btn" href="research.html">Research</a>
+      <a class="hero-btn" href="https://orcid.org/0000-0001-6554-6969" target="_blank">ORCID</a>
+      <a class="hero-btn" href="https://github.com/akabgani" target="_blank">GitHub</a>
+    </div>
+  </div>
+  <div class="hero-photo-wrap">
+    <img class="hero-photo" src="https://avatars.githubusercontent.com/u/102479904?v=4" alt="Alireza Kabgani">
+  </div>
+</div>
+
+## Research themes
+
+<div class="theme-grid">
+  <div class="theme-card"><h3>High-order optimization</h3><p>High-order Moreau and forward-backward envelopes, proximal-point algorithms, and nonquadratic regularization.</p></div>
+  <div class="theme-card"><h3>Nonsmooth & nonconvex optimization</h3><p>Convergence theory, inexact methods, weak smoothness, prox-regularity, KL geometry, and generalized subdifferentials.</p></div>
+  <div class="theme-card"><h3>Optimization for ML</h3><p>Robust learning, recommender systems, Bayesian sampling, inverse problems, and structured optimization.</p></div>
+  <div class="theme-card"><h3>Algorithms & software</h3><p>Reproducible implementations, numerical validation, and practical optimization workflows.</p></div>
+</div>
+
+## Featured work
+
+{{< include generated/featured.md >}}
+
+<p class="more-link"><a href="publications.html">View all publications →</a></p>
+
+## Latest news
+
+{{< include generated/news.md >}}
+
+<p class="more-link"><a href="activities.html">View activities →</a></p>

@@ -1,0 +1,49 @@
+- date: '2026-07-15'
+  type: publication
+  text: Our paper “On Fundamental Properties of High-Order Forward-Backward Envelope” was published in the Journal of Optimization
+    Theory and Applications.
+  url: https://doi.org/10.1007/s10957-026-03047-6
+- date: '2026-07-10'
+  type: publication
+  text: Our paper “Minimizing Smooth Kurdyka-Łojasiewicz Functions via Generalized Descent Methods” was published in the Journal
+    of Optimization Theory and Applications.
+  url: https://doi.org/10.1007/s10957-026-03034-x
+- date: '2026-07-08'
+  type: talk
+  text: Presented “Boosted inexact high-order forward-backward methods for nonconvex optimization” at EUROPT 2026, Johannes
+    Kepler University Linz, Austria.
+- date: '2026-07-08'
+  type: service
+  text: Organized the session “Smoothing Techniques for Nonsmooth Optimization” at EUROPT 2026 in Linz, Austria.
+- date: '2026-06-10'
+  type: talk
+  text: Presented “Difference of high-order Moreau envelopes for DC optimization” at the VOCAL Optimization Conference in
+    Hungary.
+- date: '2026-05-01'
+  type: publication
+  text: 'Our paper “ItsOPT: An Inexact Two-Level Smoothing Framework for Nonconvex Optimization via High-Order Moreau Envelope”
+    was accepted for publication in SIAM Journal on Optimization.'
+  url: https://arxiv.org/abs/2410.19928
+- date: '2026-05-01'
+  type: publication
+  text: Our paper “Asymptotic Convergence Analysis of High-Order Proximal-Point Methods Beyond Sublinear Rates” was accepted
+    for publication in SIAM Journal on Optimization.
+  url: https://arxiv.org/abs/2505.20484
+- date: '2025-12-01'
+  type: publication
+  text: Our paper “Moreau Envelope and Proximal-Point Methods Under the Lens of High-Order Regularization” was published in
+    Set-Valued and Variational Analysis.
+  url: https://doi.org/10.1007/s11228-025-00785-z
+- date: '2025-05-16'
+  type: talk
+  text: 'Presented “High-Order Proximal Methods: Unlocking Superlinear Convergence” at the University of Antwerp.'
+- date: '2025-06-29'
+  type: service
+  text: Organized the session “Smoothing Techniques for Nonsmooth Optimization” at EUROPT 2025 in Southampton, United Kingdom.
+- date: '2024-10-29'
+  type: talk
+  text: 'Presented “High-order Moreau Envelope in the Nonconvex Setting: Fundamental and Differential Properties” at the SOCN
+    Study Day, UCLouvain.'
+- date: '2023-12-01'
+  type: service
+  text: Joined the editorial board of Control and Optimization in Applied Mathematics (COAM).

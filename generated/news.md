@@ -1,0 +1,7 @@
+<div class="news-list">
+<div class="news-item"><div class="news-date">Jul 2026</div><div><span class="news-type">Publication</span><a href="https://doi.org/10.1007/s10957-026-03047-6" target="_blank" rel="noopener">Our paper “On Fundamental Properties of High-Order Forward-Backward Envelope” was published in the Journal of Optimization Theory and Applications.</a></div></div>
+<div class="news-item"><div class="news-date">Jul 2026</div><div><span class="news-type">Publication</span><a href="https://doi.org/10.1007/s10957-026-03034-x" target="_blank" rel="noopener">Our paper “Minimizing Smooth Kurdyka-Łojasiewicz Functions via Generalized Descent Methods” was published in the Journal of Optimization Theory and Applications.</a></div></div>
+<div class="news-item"><div class="news-date">Jul 2026</div><div><span class="news-type">Talk</span>Presented “Boosted inexact high-order forward-backward methods for nonconvex optimization” at EUROPT 2026, Johannes Kepler University Linz, Austria.</div></div>
+<div class="news-item"><div class="news-date">Jul 2026</div><div><span class="news-type">Service</span>Organized the session “Smoothing Techniques for Nonsmooth Optimization” at EUROPT 2026 in Linz, Austria.</div></div>
+<div class="news-item"><div class="news-date">Jun 2026</div><div><span class="news-type">Talk</span>Presented “Difference of high-order Moreau envelopes for DC optimization” at the VOCAL Optimization Conference in Hungary.</div></div>
+</div>
