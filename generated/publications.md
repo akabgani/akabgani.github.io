@@ -240,6 +240,16 @@
 </article>
 
 
+<article class="pub-card" data-status="preprint" data-year="2026" data-search="difference-of-convex optimization via inexact smoothing descent methods: difference of high-order moreau envelopes alireza kabgani moslem zamani masoud ahookhosh arxiv ">
+  <div class="pub-card-topline"><span class="status-badge status-preprint">Preprint</span><span class="pub-year">2026</span></div>
+  <h3 class="pub-title"><a href="https://arxiv.org/abs/2606.30991" target="_blank" rel="noopener">Difference-of-Convex Optimization via Inexact Smoothing Descent Methods: Difference of High-Order Moreau Envelopes</a></h3>
+  <div class="pub-authors"><strong>Alireza Kabgani</strong>, Moslem Zamani, Masoud Ahookhosh</div>
+  <div class="pub-meta">arXiv, 2026</div>
+  <div class="pub-topics"></div>
+  <div class="pub-actions"><a class="pub-btn pub-btn-secondary" href="https://arxiv.org/abs/2606.30991" target="_blank" rel="noopener">arXiv</a></div>
+</article>
+
+
 <article class="pub-card" data-status="preprint" data-year="2025" data-search="first-order majorization-minimization meets high-order majorant: boosted inexact high-order forward-backward method alireza kabgani masoud ahookhosh arxiv majorization-minimization forward-backward methods high-order optimization">
   <div class="pub-card-topline"><span class="status-badge status-preprint">Preprint</span><span class="pub-year">2025</span></div>
   <h3 class="pub-title"><a href="https://arxiv.org/abs/2510.22231" target="_blank" rel="noopener">First-Order Majorization-Minimization Meets High-Order Majorant: Boosted Inexact High-Order Forward-Backward Method</a></h3>

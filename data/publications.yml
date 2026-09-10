@@ -374,3 +374,15 @@
   - Smoothing
   - Inexact optimization
   featured: false
+- id: 2026-difference-of-convex-optimization-via-inexact-smoothing-de
+  title: 'Difference-of-Convex Optimization via Inexact Smoothing Descent Methods: Difference of High-Order Moreau Envelopes'
+  authors:
+  - Alireza Kabgani
+  - Moslem Zamani
+  - Masoud Ahookhosh
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2606.30991'
+  topics: []
+  featured: false

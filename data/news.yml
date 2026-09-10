@@ -47,3 +47,8 @@
 - date: '2023-12-01'
   type: service
   text: Joined the editorial board of Control and Optimization in Applied Mathematics (COAM).
+- date: '2026-06-30'
+  type: publication
+  text: 'New preprint on arXiv: “Difference-of-Convex Optimization via Inexact Smoothing Descent Methods: Difference of High-Order
+    Moreau Envelopes”.'
+  url: https://arxiv.org/abs/2606.30991
