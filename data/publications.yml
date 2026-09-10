@@ -299,7 +299,7 @@
   - Statistics
   featured: false
 - id: ghaderi-kabgani-moreau-ahookhosh-2026-himars-mcmc
-  title: 'HiMARS: Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm'
+  title: 'Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm'
   authors:
   - Susan Ghaderi
   - Alireza Kabgani
