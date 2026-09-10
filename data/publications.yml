@@ -299,7 +299,7 @@
   - Statistics
   featured: false
 - id: ghaderi-kabgani-moreau-ahookhosh-2026-himars-mcmc
-  title: 'Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm'
+  title: Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm
   authors:
   - Susan Ghaderi
   - Alireza Kabgani
@@ -384,5 +384,16 @@
   status: preprint
   venue: arXiv
   arxiv: '2606.30991'
+  topics: []
+  featured: false
+- id: 2026-beyond-conventional-federated-learning-via-high-order-regu
+  title: Beyond Conventional Federated Learning via High-Order Regularization
+  authors:
+  - Alireza Kabgani
+  - Masoud Ahookhosh
+  year: 2026
+  status: preprint
+  venue: arXiv
+  arxiv: '2609.09904'
   topics: []
   featured: false

@@ -210,9 +210,9 @@
 </article>
 
 
-<article class="pub-card" data-status="preprint" data-year="2026" data-search="himars: speeding up nonsmooth bayesian mcmc sampling via inexact proximal unadjusted langevin algorithm susan ghaderi alireza kabgani yves moreau masoud ahookhosh arxiv bayesian sampling proximal langevin nonsmooth optimization">
+<article class="pub-card" data-status="preprint" data-year="2026" data-search="speeding up nonsmooth bayesian mcmc sampling via inexact proximal unadjusted langevin algorithm susan ghaderi alireza kabgani yves moreau masoud ahookhosh arxiv bayesian sampling proximal langevin nonsmooth optimization">
   <div class="pub-card-topline"><span class="status-badge status-preprint">Preprint</span><span class="pub-year">2026</span></div>
-  <h3 class="pub-title"><a href="https://arxiv.org/abs/2605.17306" target="_blank" rel="noopener">HiMARS: Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm</a></h3>
+  <h3 class="pub-title"><a href="https://arxiv.org/abs/2605.17306" target="_blank" rel="noopener">Speeding Up Nonsmooth Bayesian MCMC Sampling via Inexact Proximal Unadjusted Langevin Algorithm</a></h3>
   <div class="pub-authors">Susan Ghaderi, <strong>Alireza Kabgani</strong>, Yves Moreau, Masoud Ahookhosh</div>
   <div class="pub-meta">arXiv, 2026</div>
   <div class="pub-topics"><span class="topic-chip">Bayesian sampling</span><span class="topic-chip">Proximal Langevin</span><span class="topic-chip">Nonsmooth optimization</span></div>
@@ -247,6 +247,16 @@
   <div class="pub-meta">arXiv, 2026</div>
   <div class="pub-topics"></div>
   <div class="pub-actions"><a class="pub-btn pub-btn-secondary" href="https://arxiv.org/abs/2606.30991" target="_blank" rel="noopener">arXiv</a></div>
+</article>
+
+
+<article class="pub-card" data-status="preprint" data-year="2026" data-search="beyond conventional federated learning via high-order regularization alireza kabgani masoud ahookhosh arxiv ">
+  <div class="pub-card-topline"><span class="status-badge status-preprint">Preprint</span><span class="pub-year">2026</span></div>
+  <h3 class="pub-title"><a href="https://arxiv.org/abs/2609.09904" target="_blank" rel="noopener">Beyond Conventional Federated Learning via High-Order Regularization</a></h3>
+  <div class="pub-authors"><strong>Alireza Kabgani</strong>, Masoud Ahookhosh</div>
+  <div class="pub-meta">arXiv, 2026</div>
+  <div class="pub-topics"></div>
+  <div class="pub-actions"><a class="pub-btn pub-btn-secondary" href="https://arxiv.org/abs/2609.09904" target="_blank" rel="noopener">arXiv</a></div>
 </article>
 
 

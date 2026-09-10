@@ -52,3 +52,7 @@
   text: 'New preprint on arXiv: “Difference-of-Convex Optimization via Inexact Smoothing Descent Methods: Difference of High-Order
     Moreau Envelopes”.'
   url: https://arxiv.org/abs/2606.30991
+- date: '2026-09-09'
+  type: publication
+  text: 'New preprint on arXiv: “Beyond Conventional Federated Learning via High-Order Regularization”.'
+  url: https://arxiv.org/abs/2609.09904
